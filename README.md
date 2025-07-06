@@ -6,7 +6,7 @@ Takım AI 208
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
-- Emre Acar: Scrum Master 
+- Emre Acar: Scrum Master/ Product Owner/ Developer
 - Büşra Kaya: Aktif Olmayan Üye
 - Uğur Pehlivan: Aktif Olmayan Üye
 - Kadir Görkem Yılmaz: Aktif Olmayan Üye
