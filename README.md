@@ -13,12 +13,15 @@ Takım AI 208
 - Merve Adalı: Aktif Olmayan Üye
 
 ## Ürün İsmi
+Kavram Pusulası
 ## Ürün Açıklaması
 Kavram Pusulası, öğrencilerin karmaşık akademik konularda karşılaştıkları zorlukları, kişiye özel ve anında üretilen eğitim içerikleriyle aşmalarını sağlayan yapay zeka tabanlı bir öğrenme platformudur. Standart eğitim materyallerinin ve tek tip video anlatımlarının aksine, her öğrencinin anlama hızına, öğrenme stiline ve spesifik sorunlarına adapte olan dinamik bir öğrenme deneyimi sunar. Kavram Pusulası, öğrenmenin kişisel bir yolculuk olduğunu savunur ve her öğrencinin kendi potansiyeline ulaşması için ihtiyaç duyduğu desteği, en modern yapay zeka teknolojileriyle sağlamayı hedefler. Bu platform, ezbere dayalı öğrenmeyi reddederek, konuların temel mantığını ve "neden"ini kavramayı teşvik eder ve böylece kalıcı ve derinlemesine bir öğrenme sağlar.
 
-## Uygulama birincil fonksiyonu: Öğrenci, anlamakta zorlandığı bir konuyu veya çözemediği bir soruyu ("Türevde zincir kuralını anlamıyorum", "Bu fizik sorusundaki serbest cisim diyagramı nasıl çizilir?") kendi cümleleriyle platforma yazar. Yapay zeka, bu girdiyi analiz ederek öğrencinin ihtiyacına özel, adım adım çözümler, farklı analojilerle zenginleştirilmiş konu anlatımları ve konuyu pekiştirecek pratik sorular üretir.
+## Uygulama birincil fonksiyonu:
+Öğrenci, anlamakta zorlandığı bir konuyu veya çözemediği bir soruyu ("Türevde zincir kuralını anlamıyorum", "Bu fizik sorusundaki serbest cisim diyagramı nasıl çizilir?") kendi cümleleriyle platforma yazar. Yapay zeka, bu girdiyi analiz ederek öğrencinin ihtiyacına özel, adım adım çözümler, farklı analojilerle zenginleştirilmiş konu anlatımları ve konuyu pekiştirecek pratik sorular üretir.
 
-## Uygulama ikincil fonksiyonu: Eğitimciler ve veliler, sorumlu oldukları öğrencilerin hangi konularda daha çok zorlandığını ve ne kadar ilerleme kaydettiğini gösteren anonimleştirilmiş analitik raporları görebilir. Bu sayede, geleneksel yöntemlerle tespit edilmesi zor olan öğrenme eksikliklerini erkenden fark ederek müfredatlarını veya destek programlarını bu ihtiyaçlara göre şekillendirebilirler.
+## Uygulama ikincil fonksiyonu: 
+Eğitimciler ve veliler, sorumlu oldukları öğrencilerin hangi konularda daha çok zorlandığını ve ne kadar ilerleme kaydettiğini gösteren anonimleştirilmiş analitik raporları görebilir. Bu sayede, geleneksel yöntemlerle tespit edilmesi zor olan öğrenme eksikliklerini erkenden fark ederek müfredatlarını veya destek programlarını bu ihtiyaçlara göre şekillendirebilirler.
 
 ## Ürün Özellikleri
 Doğal dil (Türkçe) ile yazılmış öğrenme problemlerini anlama ve Generative AI kullanarak kişiye özel, zenginleştirilmiş (analoji, örnek, adım adım çözüm) eğitim içeriği üretme.
