@@ -1,11 +1,15 @@
 # ai208
-Takım İsmi
-Takım Flutter 52
+# **Takım İsmi**
 
-Ürün İle İlgili Bilgiler
-Takım Elemanları
-Muhammed Mustafa Aksoy: Scrum Master / Product Owner / Developer
-Sümeyye Aydoğan: Developer
-Yunus Emre Gürel: Developer
-Zeynep Nur Meşe: Aktif Olmayan Üye
-Ürün İsmi
+Takım AI 208
+
+# Ürün İle İlgili Bilgiler
+
+## Takım Elemanları
+- Emre Acar: Scrum Master 
+- Büşra Kaya: Aktif Olmayan Üye
+- Uğur Pehlivan: Aktif Olmayan Üye
+- Kadir Görkem Yılmaz: Aktif Olmayan Üye
+- Merve Adalı: Aktif Olmayan Üye
+
+## Ürün İsmi
