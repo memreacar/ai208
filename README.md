@@ -44,3 +44,10 @@ Ben projeyi başlangıçtan sona kadar tek yapmak durumunda kaldım çünkü di�
 
 ![Screenshot_20250803_073710_Pydroid 3](https://github.com/user-attachments/assets/8bb58ecb-e82b-4901-bb02-a5098fca6229)
 
+## 2. Uygulama Sağlıklı Ywmek Tarifleri Bölümü 
+
+![Screenshot_20250803_073930_Pydroid 3](https://github.com/user-attachments/assets/cab62c19-57dc-481f-8e4a-0e8417fa7282)
+
+## 3. Uygulama Günlük Kalori Hesaplayıcı 
+
+![Screenshot_20250803_073955_Pydroid 3](https://github.com/user-attachments/assets/5b368f3b-8481-4f36-9372-8cd0ffe203ca)
