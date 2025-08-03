@@ -39,3 +39,4 @@ Sağlıklı Yaşam Hedefleri Olan Bireyler: Kilo vermek, formda kalmak veya sağ
 
 ## Jüriye Not
 Ben projeyi başlangıçtan sona kadar tek yapmak durumunda kaldım çünkü diğer takım arkadaşlarım pasiftiler. Bunun yanında zorunlu olmadığı için proje yönetimi kursu almadım ve takımda tek ben olunca proje yönetimi aşamalarında çok bilgim olmadan ilerlemek durumunda kaldım. Sonucuna da çok ummadığım bir proje yapmış oldum. Jam sürecinde büyük bir kısmında yalnız ilerleme sağlamıştım, ancak konuyla alakalı daha fazla bilgim olduğundan finallere katılacak dereceyi elde etmiştim. Ancak, bootcampte başaramadım maalesef.
+
